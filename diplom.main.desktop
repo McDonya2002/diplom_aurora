@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=diplom.main
+Exec=/usr/bin/diplom.main
+Name=diplom
+Name[ru]=diplom
+
+[X-Application]
+Permissions=WebView;Audio;Internet;RemovableMedia;MediaIndexing;Location;Pictures
+OrganizationName=diplom.main
+ApplicationName=diplom
+ExecDBus=/usr/bin/diplom.main
